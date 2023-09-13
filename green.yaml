@@ -1,0 +1,8 @@
+path: '/home/eilaka/Documents/ztm-pytorch-course/final'
+train: 'green_trained' 
+test: 'test'
+val: 'validation' 
+# class names
+names: 
+  0: 'crop'
+  1: 'weed'
